@@ -61,6 +61,18 @@ module.exports = [
       b: {baz: false, foo: 'bar', bar: 1},
       result: true
     },
+    {
+      name: 'A has more keys',
+      a: {foo: 1, bar: 2},
+      b: {foo: 1},
+      result: false,
+    },
+    {
+      name: 'B has more keys',
+      a: {foo: 1},
+      b: {foo: 1, bar: 2},
+      result: false,
+    },
   ]],
 
   ['Deep objects', [
