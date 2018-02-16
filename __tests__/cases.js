@@ -80,11 +80,11 @@ module.exports = [
       name: 'Simple one level - 2',
       a: {
         a: 1,
-        b: obj
+        b: obj1
       },
       b: {
         a: 1,
-        b: obj
+        b: obj1
       },
       result: true
     },

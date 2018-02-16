@@ -2,7 +2,6 @@ var keyList = Object.keys;
 
 exports.equal = function equal (a, b) {
   if (a === b) return true;
-  if (!a || !b) return false;
   if (!(a instanceof Object) || !(b instanceof Object)) return false;
 
   var keys = keyList(a);
