@@ -1,5 +1,7 @@
 # fast-shallow-equal
 
+[![][npm-badge]][npm-url] [![][travis-badge]][travis-url]
+
 Very fast shallow equal, based on [`fast-deep-equal`](https://github.com/epoberezkin/fast-deep-equal).
 
 
@@ -23,3 +25,8 @@ equal(a, b);
 
 [Unlicense](./LICENSE) &mdash; public domain.
 
+
+[npm-url]: https://www.npmjs.com/package/fast-shallow-equal
+[npm-badge]: https://img.shields.io/npm/v/fast-shallow-equal.svg
+[travis-url]: https://travis-ci.org/MailOnline/fast-shallow-equal
+[travis-badge]: https://travis-ci.org/MailOnline/fast-shallow-equal.svg?branch=master
