@@ -1,6 +1,10 @@
 {
   "name": "fast-shallow-equal",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/streamich/fast-shallow-equal.git"
+  },
   "scripts": {
 
   },
@@ -13,5 +17,14 @@
     "reporters": [
       "jest-tap-reporter"
     ]
-  }
+  },
+  "keywords": [
+    "equal",
+    "fast",
+    "shallow",
+    "fast-shallow-equal",
+    "comparator",
+    "pure",
+    "should-update"
+  ]
 }
