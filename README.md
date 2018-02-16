@@ -28,5 +28,5 @@ equal(a, b);
 
 [npm-url]: https://www.npmjs.com/package/fast-shallow-equal
 [npm-badge]: https://img.shields.io/npm/v/fast-shallow-equal.svg
-[travis-url]: https://travis-ci.org/MailOnline/fast-shallow-equal
-[travis-badge]: https://travis-ci.org/MailOnline/fast-shallow-equal.svg?branch=master
+[travis-url]: https://travis-ci.org/streamich/fast-shallow-equal
+[travis-badge]: https://travis-ci.org/streamich/fast-shallow-equal.svg?branch=master
