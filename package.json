@@ -1,0 +1,7 @@
+{
+  "name": "fast-shallow-equal",
+  "version": "0.0.1",
+  "devDependencies": {
+    "jest": "22.3.0"
+  }
+}
