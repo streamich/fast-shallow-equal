@@ -7,10 +7,10 @@ exports.equal = function equal (a, b) {
   var keys = keyList(a);
   var length = keys.length;
 
-  for (let i = 0; i < length; i++)
+  for (var i = 0; i < length; i++)
     if (!(keys[i] in b)) return false;
 
-  for (let i = 0; i < length; i++)
+  for (var i = 0; i < length; i++)
     if (a[keys[i]] !== b[keys[i]]) return false;
 
   return length === keyList(b).length;

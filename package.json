@@ -18,7 +18,8 @@
     "testRegex": ".*/__tests__/.*\\.(test|spec)\\.(jsx?|tsx?)$",
     "reporters": [
       "jest-tap-reporter"
-    ]
+    ],
+    "testURL": "http://localhost"
   },
   "keywords": [
     "equal",
