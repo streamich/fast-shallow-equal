@@ -21,6 +21,7 @@
     ],
     "testURL": "http://localhost"
   },
+  "license": "Unlicense",
   "keywords": [
     "equal",
     "fast",
